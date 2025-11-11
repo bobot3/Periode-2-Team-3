@@ -1,0 +1,19 @@
+name: Test Workflow
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Print bericht
+      run: echo "Hello! De workflow werkt! 🎉"
+    
+    - name: Print datum
+      run: date
+    
+    - name: Print systeem info
+      run: uname -a
