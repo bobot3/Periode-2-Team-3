@@ -22,8 +22,9 @@ Als er een bug gevonden wordt die meteen opgelost moet worden kan gebruik gemaak
 
 Als alle features voor een sprint af zijn gerond kan de code van develop naar main worden gemerged. Hierna krijgt die commit van main een tag voor de release.
 
-### Code Conventies
-##Code
+## Code Conventies
+
+Code:
 
 namen van classes, methods, enumerations, public fields, public properties, namespaces: PascalCase.
 
@@ -37,7 +38,7 @@ namen van interfaces starten met I, bijv. IInterface.
 
 comments en variabelen in het nederlands declareren
 
-#files
+Files:
 
 Bestandsnamen en directorynamen zijn PascalCase, bijvoorbeeld MyFile.cs.
 
