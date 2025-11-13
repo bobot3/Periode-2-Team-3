@@ -5,10 +5,14 @@ Typ.IO
 een project om een typcursus aantrekkelijk te maken voor studenten door middel van muziek en ritme
 
 ## Teamleden
-Bo Kulman
+Bo Külman
+
 Hazal Kalender
+
 Abdi Abdulqadir
+
 Michael van der Rhee
+
 Rayen Khelifi
 
 ## Werkwijze
